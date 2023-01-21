@@ -34,11 +34,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app desenvolvido com o intuido de auxiliar seu usuário a rastrear seus habitos e melhora-los.
 
-- [Visite o projeto online] (gleizioliveira.github.io/Setup-NLW/)
+[Visite o projeto online](https://gleizioliveira.github.io/Setup-NLW/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](align="center"). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](align="center").
+É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
