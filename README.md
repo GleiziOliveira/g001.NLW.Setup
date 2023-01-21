@@ -19,7 +19,7 @@ Programa NLW é exclusivo e gratuito, promovido pela Rocketseat para ensino de t
 <p align="center">
   <img alt="projeto habtis" src=".github/preview.jpg" width="100%">
 </p>
-<p align="center">"projeto habtis - como ficou depois do dia 16/01 - inicio do desenvolvimento e hoje dia 20/01 fim do projeto"</p>
+<p align="center">"projeto habtis - inicio do desenvolvimento em 16/01 e hoje dia 20/01 fim do projeto"</p>
 
 ## 🚀 Tecnologias
 
