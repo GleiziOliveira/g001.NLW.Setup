@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app desenvolvido com o intuido de auxiliar seu usuário a rastrear seus habitos e melhora-los.
 
-[Visite o projeto online](https://gleizioliveira.github.io/Setup-NLW/)
+[Visite o projeto online](https://gleizioliveira.github.io/g001.NLW.Setup/)
 
 ## 🔖 Layout
 
